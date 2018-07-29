@@ -1673,8 +1673,8 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__text p {
-    font-size: 1.7rem;
-    margin-top: 4.8rem;
+    font-size: 1.3rem;
+    margin-top: 2.8rem;
     margin-right: 10%;
   }
 
@@ -1694,6 +1694,10 @@ html.no-csstransitions .home-content__main {
   .home-content__counter .days span {
     padding: 6px 12px;
   }
+  
+  .home-slider h3 {
+    font-size: 1rem;
+  }
 
 }
 
@@ -1711,8 +1715,8 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__text p {
-    font-size: 1.6rem;
-    margin-top: 4.2rem;
+    font-size: 1.2rem;
+    margin-top: 2.2rem;
     margin-right: 5%;
   }
 
@@ -1765,6 +1769,10 @@ html.no-csstransitions .home-content__main {
   .home-social span::after {
     right: -22px;
   }
+  
+  .home-slider h3 {
+    font-size: 0.9rem;
+  }
 
 }
 
@@ -1790,7 +1798,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__text p {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin-top: 3.6rem;
   }
 
@@ -1806,6 +1814,10 @@ html.no-csstransitions .home-content__main {
   .home-content__counter .days {
     font-size: 11rem;
     padding-right: 5.5rem;
+  }
+  
+  .home-slider h3 {
+    font-size: 0.8rem;
   }
 
 }
@@ -1862,6 +1874,10 @@ html.no-csstransitions .home-content__main {
   .home-content__line {
     display: none;
   }
+  
+  .home-slider h3 {
+    font-size: 0.7rem;
+  }
 
 }
 
@@ -1885,6 +1901,10 @@ html.no-csstransitions .home-content__main {
 
   .home-social {
     display: none;
+  }
+  
+  .home-slider h3 {
+    font-size: 0.6rem;
   }
 
 }
@@ -1911,6 +1931,10 @@ html.no-csstransitions .home-content__main {
   .home-content__counter .days {
     font-size: 8rem;
     padding-right: 5.5rem;
+  }
+  
+  .home-slider h3 {
+    font-size: 0.5rem;
   }
 
 }
@@ -1947,6 +1971,10 @@ html.no-csstransitions .home-content__main {
     text-align: center;
     padding-right: 25px;
     padding-left: 25px;
+  }
+  
+  .home-slider h3 {
+    font-size: 0.5rem;
   }
 
 }
@@ -1991,6 +2019,10 @@ html.no-csstransitions .home-content__main {
   .home-copyright span::after {
     display: none;
   }
+  
+  .home-slider h3 {
+    font-size: 0.5rem;
+  }
 
 }
 
@@ -2026,6 +2058,10 @@ html.no-csstransitions .home-content__main {
 
   .home-copyright {
     margin-top: 7.8rem;
+  }
+  
+  .home-slider h3 {
+    font-size: 0.5rem;
   }
 
 }
