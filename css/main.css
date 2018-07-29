@@ -1906,6 +1906,7 @@ html.no-csstransitions .home-content__main {
   .home-slider h3 {
     font-size: 10px;
     padding-bottom: 5%;
+    text-align: left;
   }
 
 }
@@ -1935,7 +1936,9 @@ html.no-csstransitions .home-content__main {
   }
   
   .home-slider h3 {
-    font-size: 0.5rem;
+    font-size: 10px;
+    padding-bottom: 5%;
+    text-align: left;
   }
 
 }
