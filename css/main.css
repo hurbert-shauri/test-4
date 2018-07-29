@@ -1904,7 +1904,8 @@ html.no-csstransitions .home-content__main {
   }
   
   .home-slider h3 {
-    font-size: 0.6rem;
+    font-size: 10px;
+    padding-bottom: 5%;
   }
 
 }
