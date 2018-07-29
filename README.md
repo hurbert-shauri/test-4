@@ -1,7 +1,7 @@
 # hurbert-shauri.github.io
 
-Hi! This is a fourth generation of my portfolio. I have built it based on Stlyleshot platform. 
+Hi! This is a fourth generation of my portfolio. It has been built and developed off of a platform sourced form Stlyleshot. 
 
 Cheers.
 
-# will add links to the source soon
+I will add links to the source soon
