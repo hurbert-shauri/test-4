@@ -1759,10 +1759,10 @@ html.no-csstransitions .home-content__main {
 @media (min-width: 481px) and (max-width: 767px) {
   .home-content__main,
   .home-copyright {
-    max-width: 600px;
+    max-width: 700px;
   }
 
-  .home-content__text {
+  .home-content_main {
     padding-right: 15px;
   }
 
@@ -1777,6 +1777,11 @@ html.no-csstransitions .home-content__main {
   .home-social {
     display: none;
   }
+  
+  .home-slider h3 {
+    position: absolute;
+    bottom: 3%;
+    left: 15px;
   
 }
 
@@ -1811,12 +1816,17 @@ html.no-csstransitions .home-content__main {
     padding-right: 0;
   }
 
-  .home-content__text p {
+  .home-content p {
     font-size: 1.6rem;
+    text-align: left;
   }
 
   .home-copyright {
     margin-top: 7.8rem;
+  }
+
+  .home-social {
+    display: none;
   }
   
 /*
