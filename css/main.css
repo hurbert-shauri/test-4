@@ -1670,6 +1670,11 @@ html.no-csstransitions .home-content__main {
 */
 
 @media (min-width: 1281px) {
+  
+  https://www.google.com/
+  
+  
+  /*
   .home-content h1 {
     font-size: 5.8rem;
   }
@@ -1700,6 +1705,7 @@ html.no-csstransitions .home-content__main {
   .home-content__counter .days span {
     padding: 6px 12px;
   }
+  */
   
 }
 
