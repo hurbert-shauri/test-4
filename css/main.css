@@ -1775,15 +1775,19 @@ html.no-csstransitions .home-content__main {
   .home-content__counter .days {
     font-size: 9rem;
   }
+  
+  /*
 
   .home-social {
     display: none;
   }
+  */
   
   .home-slider h3 {
     position: absolute;
-    bottom: 20%;
-    left: 5px;
+    max-width: auto;
+    top: 80%;
+    left: 0;
   
 }
 
@@ -1844,7 +1848,7 @@ html.no-csstransitions .home-content__main {
     max-width: 1200px;
   }
 
-  .home-content__text p {
+  .home-content p {
     font-size: 1.7rem;
     margin-top: 4.8rem;
     margin-right: 10%;
