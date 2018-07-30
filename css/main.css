@@ -1763,6 +1763,8 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content_main {
+    position: absolute;
+    top: 10%;
     padding-right: 15px;
   }
 
@@ -1780,7 +1782,7 @@ html.no-csstransitions .home-content__main {
   
   .home-slider h3 {
     position: absolute;
-    bottom: 3%;
+    bottom: 10%;
     left: 15px;
   
 }
