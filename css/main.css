@@ -1835,6 +1835,12 @@ html.no-csstransitions .home-content__main {
     display: none;
   }
   
+  .home-slider h3 {
+    position: fixed;
+    max-width: auto;
+    top: 80%;
+    left: 0;
+  
 /*
   
 }
