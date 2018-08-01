@@ -2541,6 +2541,10 @@ html.no-csstransitions .home-content__main {
     font-size: 4.2rem;
   }
 
+  .home-slider span {
+    top: 1000px;
+  }
+
 }
 
 @media only screen and (max-width:500px) {
@@ -2550,6 +2554,10 @@ html.no-csstransitions .home-content__main {
 
   .info-social li {
     width: 50%;
+  }
+
+  .home-slider span {
+    top: 1000px;
   }
 
 }
