@@ -2545,6 +2545,10 @@ html.no-csstransitions .home-content__main {
     top: 1000px;
   }
 
+  .info-social span {
+    display: none;
+  }
+
 }
 
 @media only screen and (max-width:500px) {
@@ -2558,6 +2562,10 @@ html.no-csstransitions .home-content__main {
 
   .home-slider span {
     top: 1000px;
+  }
+
+  .info-social span {
+    display: none;
   }
 
 }
