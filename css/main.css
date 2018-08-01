@@ -2538,7 +2538,7 @@ html.no-csstransitions .home-content__main {
     top: 500px;
   }
 
-  .home-social span {
+  .home-social {
     display: none;
   }
 
@@ -2553,26 +2553,19 @@ html.no-csstransitions .home-content__main {
     top: 500px;
   }
 
-  .home-social span {
+  .home-social {
     display: none;
   }
 
 }
 
 @media only screen and (max-width:500px) {
-  .s-info h1 {
-    font-size: 3.8rem;
-  }
-
-  .info-social li {
-    width: 50%;
-  }
 
   .home-slider span {
     top: 700px;
   }
 
-  .home-social span {
+  .home-social {
     display: none;
   }
 
@@ -2595,11 +2588,7 @@ html.no-csstransitions .home-content__main {
     font-size: 3.5rem;
   }
 
-  .info-social li {
-    width: auto;
-  }
-
-  .info-social span {
+  .home-social {
     display: none;
   }
 
