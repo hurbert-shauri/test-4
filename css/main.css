@@ -2527,30 +2527,6 @@ html.no-csstransitions .home-content__main {
     width: 33.33333%;
   }
 
-  .home-social  {
-    display: none;
-  }
-
-  .home-social a {
-    display: none;
-  }
-
-  .home-social li {
-    display: none;
-  }
-
-  .home-social li a {
-    display: none;
-  }
-
-  .home-social i {
-    display: none;
-  }
-
-  .home-social span {
-    display: none;
-  }
-
 }
 
 @media only screen and (max-width:800px) {
@@ -2566,26 +2542,6 @@ html.no-csstransitions .home-content__main {
     display: none;
   }
 
-  .home-social a {
-    display: none;
-  }
-
-  .home-social li {
-    display: none;
-  }
-
-  .home-social li a {
-    display: none;
-  }
-
-  .home-social i {
-    display: none;
-  }
-
-  .home-social span {
-    display: none;
-  }
-
 }
 
 @media only screen and (max-width:600px) {
@@ -2597,60 +2553,12 @@ html.no-csstransitions .home-content__main {
     top: 500px;
   }
 
-  .home-social {
-    display: none;
-  }
-
-  .home-social a {
-    display: none;
-  }
-
-  .home-social li {
-    display: none;
-  }
-
-  .home-social li a {
-    display: none;
-  }
-
-  .home-social i {
-    display: none;
-  }
-
-  .home-social span {
-    display: none;
-  }
-
 }
 
 @media only screen and (max-width:500px) {
 
   .home-slider span {
     top: 700px;
-  }
-
-  .home-social {
-    display: none;
-  }
-
-  .home-social a {
-    display: none;
-  }
-
-  .home-social li {
-    display: none;
-  }
-
-  .home-social li a {
-    display: none;
-  }
-
-  .home-social i {
-    display: none;
-  }
-
-  .home-social span {
-    display: none;
   }
 
 }
@@ -2670,30 +2578,6 @@ html.no-csstransitions .home-content__main {
 
   .s-info h1 {
     font-size: 3.5rem;
-  }
-
-  .home-social {
-    display: none;
-  }
-
-  .home-social a {
-    display: none;
-  }
-
-  .home-social li {
-    display: none;
-  }
-
-  .home-social li a {
-    display: none;
-  }
-
-  .home-social i {
-    display: none;
-  }
-
-  .home-social span {
-    display: none;
   }
 
 }
