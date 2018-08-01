@@ -2534,6 +2534,14 @@ html.no-csstransitions .home-content__main {
     padding: 18rem 0 9rem;
   }
 
+  .home-slider span {
+    top: 500px;
+  }
+
+  .home-social span {
+    display: none;
+  }
+
 }
 
 @media only screen and (max-width:600px) {
@@ -2542,10 +2550,10 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-slider span {
-    top: 700px;
+    top: 500px;
   }
 
-  .info-social span {
+  .home-social span {
     display: none;
   }
 
@@ -2564,7 +2572,7 @@ html.no-csstransitions .home-content__main {
     top: 700px;
   }
 
-  .info-social span {
+  .home-social span {
     display: none;
   }
 
